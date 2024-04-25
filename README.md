@@ -1,6 +1,6 @@
 # Data Visualization using ComplexHeatmap package
 
-# RNA-Seq Data Analysis for Mouse Samples
+## RNA-Seq Data Analysis for Mouse Samples
 
 This project focuses on the analysis of RNA-seq data obtained from mouse samples. The main objectives are to process and normalize the gene expression data, select genes of interest based on predefined lists, and generate heatmaps to visualize the expression patterns across different experimental conditions.
 
